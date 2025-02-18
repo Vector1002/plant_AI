@@ -51,8 +51,6 @@ This process for building a model which can detect the disease assocaited with t
 5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
   <img src="./Assets/models.png" alt="models" />
-
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
 <br/>
 
 ## Details about the model
